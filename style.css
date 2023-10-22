@@ -1,0 +1,11 @@
+
+
+body {object-fit: fill;background-image: url ("chirayu-sharma-27heHQl2JtY-unsplash.jpg")};
+ .login {
+    border: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 100% 100%;
+ }
+ title {color:aqua}
+div:nth-child(2){color:rgb(57, 235, 13)}
